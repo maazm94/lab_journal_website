@@ -11,6 +11,8 @@ output: html_document
 
 This is a template example for lab journaling. Students in the data science courses at the Institute of Entrepreneurship will use this template to learn R for business analytics. Students can replace this text as they wish.
 
+This is some testing for git
+
 ## How to use
 
 1. Fork the repository for this website and follow the instructions in the README to get set up: [https://github.com/TUHHStartupEngineers/lab_journal_website](https://github.com/TUHHStartupEngineers/lab_journal_website)
